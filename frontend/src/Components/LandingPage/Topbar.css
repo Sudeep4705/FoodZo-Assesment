@@ -1,0 +1,9 @@
+.navbar{
+    background-color: transparent;
+    border: none !important;
+    box-shadow: none;
+    position: absolute;
+    top: 0;
+    z-index: 56;
+
+}
